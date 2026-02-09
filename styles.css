@@ -142,3 +142,20 @@ h4{
 .btn-final{
     margin-top: 20px;
 }
+
+.whats-fixo{
+    width: 2.5em;
+    height: 2.5em;
+    vertical-align: -0.125em;
+
+    position: sticky;
+    top: 85%;
+    left: 85%;
+
+}
+
+.whats-btn{
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: -0.4em;
+}
