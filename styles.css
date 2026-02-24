@@ -89,42 +89,9 @@ h3{
 
 
 
-@media (min-width: 850px){
 
-    .secao{
-        display: flex;
-        justify-content: center;
-    }
-}
 
-.diferenciais {
-    margin-top: 20px;
-    display: grid;
-    gap: 10px;
-    max-width: 700px;
-    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-    /* place-items: center; */
-    place-content: center;
-}
 
-.card-icon{
-    width: .9em;
-    height: .9em;
-    padding-right: 5px;
-
-    
-}
-
-.card-titulo{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 10px;
-    align-items: center;
-}
-
-h4{
-    margin: 0;
-}
 
 .btn-final{
     margin-top: 20px;
